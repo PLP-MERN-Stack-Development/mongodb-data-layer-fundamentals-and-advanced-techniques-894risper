@@ -1,0 +1,60 @@
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Dependency directories
+node_modules/  # <--- Most important one
+jspm_packages/
+
+# Optional files to ignore
+
+# Environment variables
+.env
+*.env
+.env.*
+.env.local
+
+# Build results
+dist/
+build/
+out/
+
+# IDE/text editor
+.idea/          # IntelliJ IDEA
+.vscode/       # Visual Studio Code
+*.suo          # Visual Studio
+*.ntvs*        # Visual Studio
+*.njsproj      # Visual Studio
+*.sln          # Visual Studio
+*.swp          # Vim swap files
+*~             # Backup files
+._*
+
+# OS generated files
+.DS_Store # Mac OS folder settings
+Thumbs.db # Windows thumbnail cache
+
+# Temporary files and directories
+tmp/
+temp/
+**/tmp/*  # tmp directory under project subdirectories
+
+# Compiled files (if you're transpiling)
+*.js.map      # Source map files
+*.d.ts        # TypeScript declaration files
+
+# Packaging
+*.orig
+*.rej
+*.patch
+*.egg-info
+.pytest_cache
+__pycache__
+
+# Ignore local config
+config/local.js
+config/local.json
