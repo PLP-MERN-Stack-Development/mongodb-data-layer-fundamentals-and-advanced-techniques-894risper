@@ -7,7 +7,7 @@ yarn-error.log*
 pnpm-debug.log*
 
 # Dependency directories
-node_modules/  # <--- Most important one
+node_modules/ # <--- Most important one
 jspm_packages/
 
 # Optional files to ignore
