@@ -56,4 +56,6 @@ Complete all the exercises in this assignment and push your code to GitHub using
 
 - [MongoDB Documentation](https://docs.mongodb.com/)
 - [MongoDB University](https://university.mongodb.com/)
-- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/) 
+- [MongoDB Node.js Driver](https://mongodb.github.io/node-mongodb-native/)
+ ## mongodb compass image
+  <img width="1568" height="773" alt="image" src="https://github.com/user-attachments/assets/0b631302-2d7f-4361-9f1b-459f7ca4cbd1" />
